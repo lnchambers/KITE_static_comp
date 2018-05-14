@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Open Sans, sans-serif;
-  font-weight: lighter;
+  font-weight: 400;
   color: #727272;
 }
 
@@ -26,7 +26,8 @@ body {
 }
 
 .header h3 {
-  font-size: 25px;
+  font-size: 26px;
+  font-weight: 300;
 }
 
 .company-card {
@@ -54,7 +55,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 90%;
-  font-size: 18px;
+  font-size: 1.09619em;
 }
 
 .company-info-title {
