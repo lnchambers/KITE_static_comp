@@ -59,22 +59,34 @@ body {
 
 .company-info-title {
   display: flex;
-  margin: 10px;
-  font-size: 20px;
+  margin-top: 4px;
+  margin-left: 14px;
+  margin-bottom: 8px;
+  font-size: 21px;
 }
 
 .company-info-description {
   display: flex;
-  margin-left: 10px;
+  margin-left: 11px;
   padding: 3px;
+  line-height: 25px;
 }
 
 .company-score {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  padding-right: 30px;
 }
 
 .company-score-card {
-
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 55px;
+  height: 36px;
+  border-radius: 18%;
+  background-color: #F2A01F;
+  color: white;
+  font-size: 18px;
 }
