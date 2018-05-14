@@ -44,6 +44,7 @@ body {
   width: 5%;
   margin-left: 18px;
   margin-bottom: 14px;
+  margin-top: 18px;
 }
 
 .company-logo img {
@@ -59,11 +60,15 @@ body {
 }
 
 .company-info-title {
+  display: flex;
   margin: 10px;
+  font-size: 20px;
 }
 
 .company-info-description {
+  display: flex;
   margin-left: 10px;
+  padding: 3px;
 }
 
 .company-score {
