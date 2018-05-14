@@ -34,3 +34,30 @@ body {
   margin: 8px;
   height: 120px;
 }
+
+.company-logo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 5%;
+}
+
+.company-info {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.company-info-title {
+
+}
+
+.company-info-description {
+
+}
+
+.company-score {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
