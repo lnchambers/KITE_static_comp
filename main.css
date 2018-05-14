@@ -60,10 +60,9 @@ body {
 
 .company-info-title {
   display: flex;
-  margin-top: 4px;
   margin-left: 14px;
   margin-bottom: 8px;
-  font-size: 21px;
+  font-size: 22px;
 }
 
 .company-info-description {
@@ -87,8 +86,8 @@ body {
   width: 55px;
   height: 36px;
   border-radius: 14%;
-  background-color: #E2A254;
+  background-color: #F2A01F;
   color: white;
-  font-size: 18px;
-  margin-top: 3px;
+  font-size: 17px;
+  font-weight: 300;
 }
